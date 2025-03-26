@@ -3,7 +3,7 @@
 This is the source code for my personal website, hosted via GitHub Pages.
 
 ## ✨ Live Site
-➡️ [[Egor's personal website](https://devcoeeg.github.io/)
+➡️ [Egor's personal website](https://devcoeeg.github.io/)
 
 ## 🛠️ Tech Stack
 - HTML5
